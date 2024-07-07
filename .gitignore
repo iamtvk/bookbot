@@ -1,2 +1,3 @@
 # Ignore specific files
 shell.nix
+books/
